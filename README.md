@@ -68,7 +68,7 @@ Each sub-repository is designed to keep the experience light, structured, and ea
 ✒️ **Closing Signature**  
 ✍️ Created & Curated by  
 **Muhammad Naveed Ishaque (Eks2)**  
-Content Creator | AI Writer | Narrative Simplifier  
+Content Creator | AI Writer | Narrative Simplifier | Cybersecurity Storyteller  
 
 _With the inner voice of Eks2 — the whisper behind the work._  
 
